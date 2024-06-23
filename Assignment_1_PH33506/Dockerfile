@@ -1,0 +1,2 @@
+FROM openjdk:22
+ARG FILE_JAR
